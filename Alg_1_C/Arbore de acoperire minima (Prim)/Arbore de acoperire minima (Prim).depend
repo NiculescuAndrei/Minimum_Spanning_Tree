@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1588267003 source:e:\codeblocks programe\arbore de acoperire minima (prim)\graf.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"graf.h"
+
+1588165315 source:e:\codeblocks programe\arbore de acoperire minima (prim)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graf.h"
+	<time.h>
+
+1587645058 e:\codeblocks programe\arbore de acoperire minima (prim)\graf.h
+
+1587569310 e:\codeblocks programe\arbore de acoperire minima (prim)\graf.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
