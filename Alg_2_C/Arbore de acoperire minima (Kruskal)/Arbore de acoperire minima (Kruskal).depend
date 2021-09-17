@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1588092308 source:e:\codeblocks programe\arbore de acoperire minima (kruskal)\graf.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"graf.h"
+
+1588165231 source:e:\codeblocks programe\arbore de acoperire minima (kruskal)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graf.c"
+	<time.h>
+
+1587575780 e:\codeblocks programe\arbore de acoperire minima (kruskal)\graf.h
+
+1588092308 e:\codeblocks programe\arbore de acoperire minima (kruskal)\graf.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"graf.h"
+

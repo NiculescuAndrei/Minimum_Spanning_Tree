@@ -1,0 +1,54 @@
+
+Muchiile din care este alcatuit arborele minim de acoperire sunt:
+1. muchia (26,35) = 8
+2. muchia (20,26) = 9
+3. muchia (18,37) = 14
+4. muchia (22,39) = 22
+5. muchia (9,42) = 24
+6. muchia (13,28) = 37
+7. muchia (42,47) = 39
+8. muchia (12,49) = 44
+9. muchia (4,18) = 57
+10. muchia (6,45) = 65
+11. muchia (47,48) = 67
+12. muchia (26,29) = 70
+13. muchia (17,36) = 79
+14. muchia (13,46) = 91
+15. muchia (27,42) = 93
+16. muchia (3,44) = 98
+17. muchia (4,35) = 105
+18. muchia (8,18) = 107
+19. muchia (3,47) = 115
+20. muchia (11,40) = 115
+21. muchia (24,40) = 118
+22. muchia (18,49) = 121
+23. muchia (3,39) = 123
+24. muchia (26,44) = 135
+25. muchia (22,43) = 136
+26. muchia (14,31) = 140
+27. muchia (36,47) = 156
+28. muchia (6,31) = 166
+29. muchia (10,41) = 168
+30. muchia (18,40) = 169
+31. muchia (9,30) = 176
+32. muchia (3,5) = 178
+33. muchia (28,45) = 181
+34. muchia (12,13) = 183
+35. muchia (5,25) = 216
+36. muchia (13,34) = 216
+37. muchia (1,25) = 285
+38. muchia (10,48) = 298
+39. muchia (33,36) = 305
+40. muchia (8,32) = 306
+41. muchia (21,27) = 318
+42. muchia (19,32) = 336
+43. muchia (6,23) = 369
+44. muchia (3,16) = 390
+45. muchia (15,29) = 402
+46. muchia (32,38) = 512
+47. muchia (2,39) = 544
+48. muchia (0,47) = 640
+49. muchia (7,40) = 776
+
+Prin urmare costul arborelui minim de acoperire gasit este: 9322
+Durata de executie:0.000000000000

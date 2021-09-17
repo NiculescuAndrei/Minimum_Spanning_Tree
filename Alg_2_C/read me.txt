@@ -1,0 +1,2 @@
+Fisierul contine implementarea algoritmului Kruskal in limbaj C cu ajutorul Codeblocks-ului.
+In graf.c se afla functia initializare_matrice_adiacenta care genereaza in mod aleatoriu datele de intrare.
